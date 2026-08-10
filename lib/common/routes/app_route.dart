@@ -1,5 +1,5 @@
 class AppRoute {
 
-  static const String MainScreenRoute="/mainScreenRoute";
+  static const String mainScreenRoute="/mainScreenRoute";
   
 }
